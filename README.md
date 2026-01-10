@@ -12,4 +12,5 @@ All user data is stored locally on the device.
 - None
 
 ## Contact
-For questions, contact: smax.developer@example.com
+For questions, contact: suhelbhaiofficial77699@gmail.com
+
