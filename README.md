@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This app "Dragon Owner" (published by SMAX Developer) does NOT collect any personal data from users.  
+This app "FPS UNLOCK" (published by SMAX Developer) does NOT collect any personal data from users.  
 All user data is stored locally on the device.  
 
 ## Data Collection
